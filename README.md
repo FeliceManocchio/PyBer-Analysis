@@ -1,2 +1,2 @@
-# PyBer-Visualize
+# PyBer-Analysis
 Pybar Analysis and Visualization
