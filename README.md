@@ -6,6 +6,13 @@ The Purpose of our Analysis in this module is to utilize matploylib to display t
 ## Results
 ### Results of Pyber-Analysis
 
+In the images below we can see that in an urban type of city the quantity of drivers, ride, and fare have an increased quantity, however in the rural and suburban communities the avg fare per ride and avg fare per driver is significantly higher. One can calculate the total profit from each city by multiplying the total fares by avg fare per ride. and come to the below numbers.
+- Rural would accumulate $147,118 total
+- Suburban would accumulate $599,455 total
+- Urban would accumulate $977,618.62 total 
+These totals show us another set of eye opening numbers. Even though urban holds a drastically large amount of fares at 39k nearly double of the suburban fares at 19k the profits are still more than half displaying some possibility for business growth. 
+![Analysis_summary](/Images/Analysis_summary.png)
+![PyBer_fare_summary](/analysis/PyBer_fare_summary_summary.png)
 
 ## Summary
 ### Summary of Pyber-Analysis
