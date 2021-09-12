@@ -12,7 +12,7 @@ In the images below we can see that in an urban type of city the quantity of dri
 - Urban would accumulate $977,618.62 total 
 These totals show us another set of eye opening numbers. Even though urban holds a drastically large amount of fares at 39k nearly double of the suburban fares at 19k the profits are still more than half displaying some possibility for business growth. 
 ![Analysis_summary](/Images/Analysis_summary.png)
-![PyBer_fare_summary](/analysis/PyBer_fare_summary_summary.png)
+![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary
 ### Summary of Pyber-Analysis
