@@ -16,3 +16,12 @@ These totals show us another set of eye opening numbers. Even though urban holds
 
 ## Summary
 ### Summary of Pyber-Analysis
+
+From our analysis above we can notice  a few business plans for increasing profits in each of the city types.
+
+- Rural city types could use a  larger driver pool as the chart displays the drivers are individually getting higher amounts of fares but the fare per ride is low. By increasing the total number of drivers it can increase the potential amount of rides given by the company.
+- Suburban city types could use the same motion to increase profits in the suburban cities that have drivers individually performing higher fare bring in than the avg fare ride. Byhaving it like this there may be some situations where drivers are unavailable for someone looking to be picked up in the suburban cities.
+- Urban city types would moreso benefit from the invesrse. In urban cities it would be more beneficial for the drivers themselves to have less available drivers in the area as each individual driver is averaging less than the avg fare per ride. 
+
+As for how many driuvers to increase or decrease by I recommend using the following calculation: 
+Total Fares = Total Rides+ Total Drivers where Total Drivers and Total Rides are within a 5% difference of eachother in addition to Total Drivers being less than Total Rides. This would ensure an optimal amount of drivers per rides given and enable drivers to still make a suitable amount of money on their end per individual fares exercised. 
